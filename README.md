@@ -22,9 +22,27 @@ To develop data-driven insights and predictive models demonstrating advanced ana
 
 #### Key Insights to Highlight in Your Post
 
-•	Strong overall profit margin (39.65%) — indicates operational efficiency.
-•	Top 3 stores contribute significantly to total revenue — showing potential for benchmarking.
-•	Product category mix — “Carretera” and “Montaña” dominate volume, but “Plegables” shows better margin balance.
-•	Regional disparity — “Castilla y León” leads by a large margin; growth opportunities exist in underperforming areas.
-•	Weekly sales pattern — clear midweek peaks can inform staffing and campaign timing.
-•	Sales leadership performance — strong agent-level insights, especially profit % consistency around 39–41%.
+<!-- Insights summary - paste into your README.html or any HTML-capable README renderer -->
+<section aria-labelledby="insights-heading" style="font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; line-height:1.45; max-width:720px;">
+  <h2 id="insights-heading" style="margin-bottom:0.25rem;">Key Insights</h2>
+  <ul style="padding-left:1.2rem; margin-top:0.5rem;">
+    <li>
+      <strong>Strong overall profit margin (39.65%)</strong> — indicates operational efficiency.
+    </li>
+    <li>
+      <strong>Top 3 stores contribute significantly to total revenue</strong> — showing potential for benchmarking.
+    </li>
+    <li>
+      <strong>Product category mix</strong> — “Carretera” and “Montaña” dominate volume, but “Plegables” shows better margin balance.
+    </li>
+    <li>
+      <strong>Regional disparity</strong> — “Castilla y León” leads by a large margin; growth opportunities exist in underperforming areas.
+    </li>
+    <li>
+      <strong>Weekly sales pattern</strong> — clear midweek peaks can inform staffing and campaign timing.
+    </li>
+    <li>
+      <strong>Sales leadership performance</strong> — strong agent-level insights, especially profit % consistency around 39–41%.
+    </li>
+  </ul>
+</section>
