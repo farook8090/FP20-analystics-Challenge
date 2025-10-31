@@ -20,8 +20,6 @@ To develop data-driven insights and predictive models demonstrating advanced ana
 
 ![Leadership Performance Dashboard](https://github.com/farook8090/FP20-analystics-Challenge/blob/13d3dcc8e07d38d9bea5a00eda2ece2b8368ee83/1.%20San%20Martin's%20Stores%20Analysis/GitHub/San%20Martin%20Store_page-0002.jpg)
 
-#### Key Insights to Highlight in Your Post
-
 <!-- Insights summary - paste into your README.html or any HTML-capable README renderer -->
 <section aria-labelledby="insights-heading" style="font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; line-height:1.45; max-width:720px;">
   <h2 id="insights-heading" style="margin-bottom:0.25rem;">Key Insights</h2>
